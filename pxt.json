@@ -12,7 +12,9 @@
         "tinyTown.jres",
         "tinyTown.ts",
         "tinyDungeon.jres",
-        "tinyDungeon.ts"
+        "tinyDungeon.ts",
+        "oneBitPack.jres",
+        "oneBitPack.ts"
     ],
     "testFiles": [
         "test.ts"
